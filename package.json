@@ -1,0 +1,14 @@
+{
+  "name": "dobrze-zgrani-website",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Dobrze Zgrani - DJ and Event Services Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
